@@ -1,0 +1,7 @@
+{
+  "name": "cap-lu-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
